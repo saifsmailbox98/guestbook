@@ -1,7 +1,7 @@
 {
   "name": "express-guestbook",
   "private": true,
-  "Scripts": {
+  "scripts": {
     "start": "node app"
   },
   "dependencies": {
